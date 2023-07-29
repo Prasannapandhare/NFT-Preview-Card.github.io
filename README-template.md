@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Server Url](https://your-live-site-url.com)
+- Live Site URL: [Live Server Url](https://prasannapandhare.github.io/NFT-Preview-Card.github.io/)
 
 ## My process
 
