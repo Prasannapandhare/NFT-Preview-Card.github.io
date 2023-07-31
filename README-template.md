@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-![Screenshot](image.png) - Screenshot od project.
+![Screenshot](image.png) - Screenshot od project..
 
 ### Links
 
